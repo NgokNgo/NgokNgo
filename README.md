@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm learning and testing some tech now, I will change readme when I'm better =)
 
+### My Stat:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **NgokNgo/NgokNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
