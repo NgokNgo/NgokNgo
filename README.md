@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm learning and testing some tech now, I will change readme when I'm better =)
+Learning AI...
 
 ### My Stat:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
