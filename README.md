@@ -1,11 +1,12 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngokngo&label=Profile%20views&color=0e75b6&style=flat" alt="ngokngo" /> </p>
-
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzR1dnl4aGhtY2Yzd3g3ZnZlN2ZidTd0MWkzYjRjNDZpMmN0cndhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTgd9v62p6KUqYGG98/giphy.gif" alt="gif" width="50%" >
 
 ### Hi there 👋
-<p align="left">I'm Ngoc. A student of University of Science, VNU-HCM, Vietnam</p>
+<p align="left">I'm Ngoc. A student of University of Science, VNU-HCM, Vietnam. </p>
+<p align="left"> 🔭 Department Mathematics and Computer Science. Major in Data Science. </p>
 
-🌱 I’m currently learning **Machine Learning, Data Science**
+🌱 I’m currently learning **Data Science, NLP, Machine Learning**.
+
+📫 Contact for work: ngongoc071@gmail.com
 
 <p align="left">
 </p>
